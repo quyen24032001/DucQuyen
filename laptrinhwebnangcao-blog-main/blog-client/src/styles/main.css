@@ -1,0 +1,7 @@
+/* libs */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* app */
+@import "common.css";
